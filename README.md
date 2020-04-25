@@ -1,5 +1,9 @@
 # preparation-for-interview
 
+## 春招/秋招/校招/面试 资料仓库
+
+https://github.com/wolverinn/Waking-Up
+https://github.com/frank-lam/fullstack-tutorial
 
 ## LeetCode 经典题
 
